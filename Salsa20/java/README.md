@@ -54,7 +54,7 @@ Ví dụ với input như này:
 
 Sau khi ấn `Submit` sẽ thu đươc kết quả:
 
-![image](https://user-images.githubusercontent.com/95759699/200100639-5fc6f4af-0c88-4f97-b27e-ad7654a31586.png)
+![image](Salsa20.png)
 
 Ngoài ra cách giải mã, bạn chỉ cần nhập ngược lại thôi :sunglasses:
 
