@@ -1,6 +1,7 @@
 <h2>DES Initial permutation (IP)</h2>
 <h3>Input: Text --> 64bits</h3>
 <h3>Output: Hoán vị theo bảng IP  --> 64bits</h3>
+
 ```
 cd DES
 python initial_permutation.py
