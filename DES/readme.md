@@ -5,7 +5,7 @@
 cd DES
 python initial_permutation.py
 ```
-<h3>Result</h3>
+
 ![result1](/DES/initial%20permutation.png)
 
 <h2>Final permutation (Ip^-1)</h2>
