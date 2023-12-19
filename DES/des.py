@@ -281,6 +281,7 @@ def pad(msg):
 # Main function
 print("Enter the message to be encrypted: ")
 plain_text=input()
+plain_text = plain_text.encode('utf-8').hex()
 plain_text=pad(plain_text)
 print("Message after padding: ", plain_text)
   
